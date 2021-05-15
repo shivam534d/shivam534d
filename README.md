@@ -47,7 +47,7 @@ I will execute an Idea from the **Initial Design Phase** to **User Testing** and
   </a>
   <!-- Design Instagram -->
   <a href="https://www.instagram.com/designsbymishra/" target="_blank">
-    <img align="center" src="https://i.ibb.co/ys0LtT3/instagram.png" alt="designsbymishra" height="40" width="40"/>
+    <img align="center" src="https://i.ibb.co/ys0LtT3/instagram.png" alt="designsbymishra" height="40" width="40"/>             
   </a>
   <!-- CodePen -->
   <a href="https://codepen.io/designsbymishra" target="_blank">
