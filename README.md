@@ -15,19 +15,19 @@ I will execute an Idea from the **Initial Design Phase** to **User Testing** and
 <h3 align="left">Reach me 📫:</h3>
 <p>
   <!-- Twitter -->
-  <a href="http://twitter.com/shivam534d" target="_blank" style="margin-right:12px">
+  <a href="http://twitter.com/shivam534d" target="_blank" style="margin-right:50px">
     <img align="center" src="https://i.ibb.co/r4WT3Cs/twitter.png" alt="shivam534d" height="40" width="40"/>
   </a>
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/shivam534d/" target="_blank" style="margin-right:12px">
+  <a href="https://www.linkedin.com/in/shivam534d/" target="_blank" style="margin-right:50px">
     <img align="center" src="https://i.ibb.co/28qVX05/linkedin.png" alt="shivam534d" height="40" width="40"/>
   </a>
   <!-- Instagram -->
-  <a href="https://www.instagram.com/shivam534d/" target="_blank" style="margin-right:12px">
+  <a href="https://www.instagram.com/shivam534d/" target="_blank" style="margin-right:50px">
     <img align="center" src="https://i.ibb.co/ys0LtT3/instagram.png" alt="shivam534d" height="40" width="40"/>
   </a>
   <!-- Email -->
-  <a href="mailto:shivam534d@gmail" target="_blank" style="margin-right:12px">
+  <a href="mailto:shivam534d@gmail" target="_blank" style="margin-right:50px">
     <img align="center" src="https://i.ibb.co/vQCdF5c/mail.png" alt="shivam534d" height="40" width="40"/>
   </a>
 </p>
@@ -36,19 +36,19 @@ I will execute an Idea from the **Initial Design Phase** to **User Testing** and
 
 <p>
   <!-- Behance -->
-  <a href="https://www.behance.net/designsbymishra" target="_blank" style="margin-right:12px">
+  <a href="https://www.behance.net/designsbymishra" target="_blank" style="margin-right:50px">
     <img align="center" src="https://i.ibb.co/sFJFGPh/behance.png" alt="designsbymishra" height="40" width="40"/>
   </a>
   <!-- Dribbble -->
-  <a href="https://dribbble.com/designsbymishra" target="_blank" style="margin-right:12px">
+  <a href="https://dribbble.com/designsbymishra" target="_blank" style="margin-right:50px">
     <img align="center" src="https://i.ibb.co/gtyJ8tN/dribbble.png" alt="designsbymishra" height="40" width="40"/>
   </a>
   <!-- Design Instagram -->
-  <a href="https://www.instagram.com/designsbymishra/" target="_blank" style="margin-right:12px">
+  <a href="https://www.instagram.com/designsbymishra/" target="_blank" style="margin-right:50px">
     <img align="center" src="https://i.ibb.co/ys0LtT3/instagram.png" alt="designsbymishra" height="40" width="40"/>
   </a>
   <!-- CodePen -->
-  <a href="https://codepen.io/designsbymishra" target="_blank" style="margin-right:12px">
+  <a href="https://codepen.io/designsbymishra" target="_blank" style="margin-right:50px">
     <img align="center" src="https://i.ibb.co/x3c5LXk/codepen.png" alt="designsbymishra" height="40" width="40"/>
   </a>
 </p>
@@ -57,19 +57,19 @@ I will execute an Idea from the **Initial Design Phase** to **User Testing** and
 
 <p>
   <!-- Leetcode -->
-  <a href="https://leetcode.com/shivam534d" target="_blank" style="margin-right:12px">
+  <a href="https://leetcode.com/shivam534d" target="_blank" style="margin-right:50px">
     <img align="center" src="https://i.ibb.co/kcrVsfL/leetCode.png" alt="shivam534d" height="40" width="40"/>
   </a>
   <!-- HackerRank -->
-  <a href="https://www.hackerrank.com/shivam534d" target="_blank" style="margin-right:12px">
+  <a href="https://www.hackerrank.com/shivam534d" target="_blank" style="margin-right:50px">
     <img align="center" src="https://i.ibb.co/gZB7NkV/hacker-Rank.png" alt="shivam534d" height="40" width="40"/>
   </a>
   <!-- HackerEarth -->
-  <a href="https://www.hackerearth.com/@shivam534d" target="_blank" style="margin-right:12px">
+  <a href="https://www.hackerearth.com/@shivam534d" target="_blank" style="margin-right:50px">
     <img align="center" src="https://i.ibb.co/mF36Cpp/hacker-Earth.png" alt="shivam534d" height="40" width="40"/>
   </a>
   <!-- CodeChef -->
-  <a href="https://www.codechef.com/users/shivam534d" target="_blank" style="margin-right:12px">
+  <a href="https://www.codechef.com/users/shivam534d" target="_blank" style="margin-right:50px">
     <img align="center" src="https://i.ibb.co/X3ppryC/codeChef.png" alt="shivam534d" height="40" width="40"/>
   </a>
 </p>
