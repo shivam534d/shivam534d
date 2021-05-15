@@ -12,7 +12,9 @@ I will execute an Idea from the **Initial Design Phase** to **User Testing** and
 <!-- - All of my projects are available at [https://github.com/battleplayer02/](https://github.com/battleplayer02/) -->
 
 <!-- - How to reach me, drop an email at **hshekhar499@gmail.com** -->
-<h3 align="left">Reach me 📫:</h3>
+
+### :mailbox: Reach Me:
+
 <p>
   <!-- Twitter -->
   <a href="http://twitter.com/shivam534d" target="_blank">
@@ -32,7 +34,7 @@ I will execute an Idea from the **Initial Design Phase** to **User Testing** and
   </a>
 </p>
 
-### My Design Portfolio :pencil2: :
+### :pencil2: My Design Portfolio:
 
 <p>
   <!-- Behance -->
@@ -53,7 +55,7 @@ I will execute an Idea from the **Initial Design Phase** to **User Testing** and
   </a>
 </p>
 
-### Other Links :link: :
+### :link: Other Links:
 
 <p>
   <!-- Leetcode -->
