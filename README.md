@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivam Mishra</h1>
-<h3 align="center" underline="none"><a href="http://shivammishra.in/" style="color:#FFAE1A">www.shivammishra.in</a></h3>
+:house: <h3 align="center" underline="none"><a href="http://shivammishra.in/" style="color:#FFAE1A">www.shivammishra.in</a></h3>
 <h3 align="center">A Creative Designer & Developer from India</h3>
 
 I will execute an Idea from the **Initial Design Phase** to **User Testing** and **UX Audit**, And then Proceed with the **Development**, **Testing** and **Deployment** until your idea is shipped.
@@ -32,7 +32,7 @@ I will execute an Idea from the **Initial Design Phase** to **User Testing** and
   </a>
 </p>
 
-### My Design Portfolio :pencil2:
+### My Design Portfolio :pencil2: :
 
 <p>
   <!-- Behance -->
@@ -53,7 +53,7 @@ I will execute an Idea from the **Initial Design Phase** to **User Testing** and
   </a>
 </p>
 
-### Other Links :link:
+### Other Links :link: :
 
 <p>
   <!-- Leetcode -->
