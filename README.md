@@ -32,7 +32,7 @@ I will execute an Idea from the **Initial Design Phase** to **User Testing** and
   </a>
 </p>
 
-### My Design Portfolio :mailbox:
+### My Design Portfolio :pencil2:
 
 <p>
   <!-- Behance -->
@@ -53,7 +53,7 @@ I will execute an Idea from the **Initial Design Phase** to **User Testing** and
   </a>
 </p>
 
-### Other Links
+### Other Links :link:
 
 <p>
   <!-- Leetcode -->
