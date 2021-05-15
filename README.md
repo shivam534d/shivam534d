@@ -15,19 +15,19 @@ I will execute an Idea from the **Initial Design Phase** to **User Testing** and
 <h3 align="left">Reach me 📫:</h3>
 <p>
   <!-- Twitter -->
-  <a href="http://twitter.com/shivam534d" target="_blank" style="margin-right:50px">
+  <a href="http://twitter.com/shivam534d" target="_blank">
     <img align="center" src="https://i.ibb.co/r4WT3Cs/twitter.png" alt="shivam534d" height="40" width="40"/>
   </a>
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/shivam534d/" target="_blank" style="margin-right:50px">
+  <a href="https://www.linkedin.com/in/shivam534d/" target="_blank">
     <img align="center" src="https://i.ibb.co/28qVX05/linkedin.png" alt="shivam534d" height="40" width="40"/>
   </a>
   <!-- Instagram -->
-  <a href="https://www.instagram.com/shivam534d/" target="_blank" style="margin-right:50px">
+  <a href="https://www.instagram.com/shivam534d/" target="_blank">
     <img align="center" src="https://i.ibb.co/ys0LtT3/instagram.png" alt="shivam534d" height="40" width="40"/>
   </a>
   <!-- Email -->
-  <a href="mailto:shivam534d@gmail" target="_blank" style="margin-right:50px">
+  <a href="mailto:shivam534d@gmail" target="_blank">
     <img align="center" src="https://i.ibb.co/vQCdF5c/mail.png" alt="shivam534d" height="40" width="40"/>
   </a>
 </p>
@@ -36,19 +36,19 @@ I will execute an Idea from the **Initial Design Phase** to **User Testing** and
 
 <p>
   <!-- Behance -->
-  <a href="https://www.behance.net/designsbymishra" target="_blank" style="margin-right:50px">
+  <a href="https://www.behance.net/designsbymishra" target="_blank">
     <img align="center" src="https://i.ibb.co/sFJFGPh/behance.png" alt="designsbymishra" height="40" width="40"/>
   </a>
   <!-- Dribbble -->
-  <a href="https://dribbble.com/designsbymishra" target="_blank" style="margin-right:50px">
+  <a href="https://dribbble.com/designsbymishra" target="_blank">
     <img align="center" src="https://i.ibb.co/gtyJ8tN/dribbble.png" alt="designsbymishra" height="40" width="40"/>
   </a>
   <!-- Design Instagram -->
-  <a href="https://www.instagram.com/designsbymishra/" target="_blank" style="margin-right:50px">
+  <a href="https://www.instagram.com/designsbymishra/" target="_blank">
     <img align="center" src="https://i.ibb.co/ys0LtT3/instagram.png" alt="designsbymishra" height="40" width="40"/>
   </a>
   <!-- CodePen -->
-  <a href="https://codepen.io/designsbymishra" target="_blank" style="margin-right:50px">
+  <a href="https://codepen.io/designsbymishra" target="_blank">
     <img align="center" src="https://i.ibb.co/x3c5LXk/codepen.png" alt="designsbymishra" height="40" width="40"/>
   </a>
 </p>
@@ -57,19 +57,19 @@ I will execute an Idea from the **Initial Design Phase** to **User Testing** and
 
 <p>
   <!-- Leetcode -->
-  <a href="https://leetcode.com/shivam534d" target="_blank" style="margin-right:50px">
+  <a href="https://leetcode.com/shivam534d" target="_blank">
     <img align="center" src="https://i.ibb.co/kcrVsfL/leetCode.png" alt="shivam534d" height="40" width="40"/>
   </a>
   <!-- HackerRank -->
-  <a href="https://www.hackerrank.com/shivam534d" target="_blank" style="margin-right:50px">
+  <a href="https://www.hackerrank.com/shivam534d" target="_blank">
     <img align="center" src="https://i.ibb.co/gZB7NkV/hacker-Rank.png" alt="shivam534d" height="40" width="40"/>
   </a>
   <!-- HackerEarth -->
-  <a href="https://www.hackerearth.com/@shivam534d" target="_blank" style="margin-right:50px">
+  <a href="https://www.hackerearth.com/@shivam534d" target="_blank">
     <img align="center" src="https://i.ibb.co/mF36Cpp/hacker-Earth.png" alt="shivam534d" height="40" width="40"/>
   </a>
   <!-- CodeChef -->
-  <a href="https://www.codechef.com/users/shivam534d" target="_blank" style="margin-right:50px">
+  <a href="https://www.codechef.com/users/shivam534d" target="_blank">
     <img align="center" src="https://i.ibb.co/X3ppryC/codeChef.png" alt="shivam534d" height="40" width="40"/>
   </a>
 </p>
@@ -77,7 +77,7 @@ I will execute an Idea from the **Initial Design Phase** to **User Testing** and
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" style="margin-right:10px;">
+  <a href="https://www.w3.org/html/" target="_blank">
     <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
     alt="html5"
@@ -85,7 +85,7 @@ I will execute an Idea from the **Initial Design Phase** to **User Testing** and
     height="40"
     />
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" style="margin-right:10px;">
+  <a href="https://www.w3schools.com/css/" target="_blank">
     <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
     alt="css3"
@@ -93,7 +93,7 @@ I will execute an Idea from the **Initial Design Phase** to **User Testing** and
     height="40"
     />
   </a>
-  <a href="https://sass-lang.com" target="_blank" style="margin-right:10px;">
+  <a href="https://sass-lang.com" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
       alt="sass"
@@ -101,7 +101,7 @@ I will execute an Idea from the **Initial Design Phase** to **User Testing** and
       height="40"
     />
   </a>
-  <a href="https://getbootstrap.com" target="_blank" style="margin-right:10px;">
+  <a href="https://getbootstrap.com" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
       alt="bootstrap"
@@ -109,7 +109,7 @@ I will execute an Idea from the **Initial Design Phase** to **User Testing** and
       height="40"
     />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"style="margin-right:10px;">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank>
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript"
@@ -117,7 +117,7 @@ I will execute an Idea from the **Initial Design Phase** to **User Testing** and
       height="40"
     />
   </a>
-  <a href="https://nodejs.org" target="_blank" style="margin-right:10px;">
+  <a href="https://nodejs.org" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
       alt="nodejs"
@@ -125,7 +125,7 @@ I will execute an Idea from the **Initial Design Phase** to **User Testing** and
       height="40"
     />
   </a>
-  <a href="https://expressjs.com" target="_blank" style="margin-right:10px;">
+  <a href="https://expressjs.com" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
       alt="express"
@@ -133,7 +133,7 @@ I will execute an Idea from the **Initial Design Phase** to **User Testing** and
       height="40"
     />
   </a>
-  <a href="https://reactjs.org/" target="_blank" style="margin-right:10px;">
+  <a href="https://reactjs.org/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="react"
@@ -141,7 +141,7 @@ I will execute an Idea from the **Initial Design Phase** to **User Testing** and
       height="40"
     />
   </a>
-  <a href="https://redux.js.org" target="_blank" style="margin-right:10px;">
+  <a href="https://redux.js.org" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
       alt="redux"
@@ -149,7 +149,7 @@ I will execute an Idea from the **Initial Design Phase** to **User Testing** and
       height="40"
     />
   </a>
-  <a href="https://www.mongodb.com/" target="_blank" style="margin-right:10px;">
+  <a href="https://www.mongodb.com/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
       alt="mongodb"
@@ -157,7 +157,7 @@ I will execute an Idea from the **Initial Design Phase** to **User Testing** and
       height="40"
     />
   </a>
-  <a href="https://nextjs.org/" target="_blank" style="margin-right:10px;">
+  <a href="https://nextjs.org/" target="_blank">
     <img
       src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg"
       alt="nextjs"
@@ -165,7 +165,7 @@ I will execute an Idea from the **Initial Design Phase** to **User Testing** and
       height="40"
     />
   </a>
-  <a href="https://www.postgresql.org" target="_blank" style="margin-right:10px;">
+  <a href="https://www.postgresql.org" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
       alt="postgresql"
@@ -173,7 +173,7 @@ I will execute an Idea from the **Initial Design Phase** to **User Testing** and
       height="40"
     />
   </a>
-  <a href="https://postman.com" target="_blank" style="margin-right:10px;">
+  <a href="https://postman.com" target="_blank">
     <img
       src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
       alt="postman"
@@ -181,7 +181,7 @@ I will execute an Idea from the **Initial Design Phase** to **User Testing** and
       height="40"
     />
   </a>
-  <a href="https://www.python.org" target="_blank" style="margin-right:10px;">
+  <a href="https://www.python.org" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
       alt="python"
@@ -189,7 +189,7 @@ I will execute an Idea from the **Initial Design Phase** to **User Testing** and
       height="40"
     />
   </a>
-  <a href="https://git-scm.com/" target="_blank" style="margin-right:10px;">
+  <a href="https://git-scm.com/" target="_blank">
     <img
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
       alt="git"
@@ -197,7 +197,7 @@ I will execute an Idea from the **Initial Design Phase** to **User Testing** and
       height="40"
     />
   </a>
-  <a href="https://www.linux.org/" target="_blank" style="margin-right:10px;">
+  <a href="https://www.linux.org/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
       alt="linux"
@@ -205,7 +205,7 @@ I will execute an Idea from the **Initial Design Phase** to **User Testing** and
       height="40"
     />
   </a>
-  <a href="https://angular.io" target="_blank" style="margin-right:10px;">
+  <a href="https://angular.io" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg"
       alt="angularjs"
@@ -213,7 +213,7 @@ I will execute an Idea from the **Initial Design Phase** to **User Testing** and
       height="40"
     />
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" style="margin-right:10px;">
+  <a href="https://www.typescriptlang.org/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
       alt="typescript"
@@ -221,7 +221,7 @@ I will execute an Idea from the **Initial Design Phase** to **User Testing** and
       height="40"
     />
   </a>
-  <a href="https://aws.amazon.com" target="_blank" style="margin-right:10px;">
+  <a href="https://aws.amazon.com" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
       alt="aws"
@@ -229,7 +229,7 @@ I will execute an Idea from the **Initial Design Phase** to **User Testing** and
       height="40"
     />
   </a>
-  <a href="https://firebase.google.com/" target="_blank" style="margin-right:10px;">
+  <a href="https://firebase.google.com/" target="_blank">
     <img
       src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
       alt="firebase"
@@ -237,7 +237,7 @@ I will execute an Idea from the **Initial Design Phase** to **User Testing** and
       height="40"
     />
   </a>
-  <a href="https://heroku.com" target="_blank" style="margin-right:10px;">
+  <a href="https://heroku.com" target="_blank">
     <img
       src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"
       alt="heroku"
@@ -245,7 +245,7 @@ I will execute an Idea from the **Initial Design Phase** to **User Testing** and
       height="40"
     />
   </a>
-  <a href="https://www.mysql.com/" target="_blank" style="margin-right:10px;">
+  <a href="https://www.mysql.com/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
       alt="mysql"
@@ -253,7 +253,7 @@ I will execute an Idea from the **Initial Design Phase** to **User Testing** and
       height="40"
     />
   </a>
-  <a href="https://www.java.com" target="_blank" style="margin-right:10px;">
+  <a href="https://www.java.com" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
       alt="java"
