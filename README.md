@@ -17,10 +17,9 @@ I will execute an Idea from the **Initial Design Phase** to **User Testing** and
 
 <p>
   <!-- Twitter -->
-<!--   <a href="http://twitter.com/shivam534d" target="_blank">
+  <a href="http://twitter.com/shivam534d" target="_blank">
     <img align="center" src="https://i.ibb.co/9YmZFVr/twitter.jpg" alt="shivam534d" height="40" width="auto"/>
-  </a> -->
-  [![Linkedin Badge](https://img.shields.io/badge/-shivam534d-blue?style=for-the-badge&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/shivam534d/)](https://www.linkedin.com/in/shivam534d/)
+  </a>
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/shivam534d/" target="_blank">
     <img align="center" src="https://i.ibb.co/DggC9q6/linkedin.jpg" alt="shivam534d" height="40" width="auto"/>
