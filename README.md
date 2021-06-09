@@ -81,7 +81,7 @@ I will execute an Idea from the **Initial Design Phase** to **User Testing** and
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank">
     <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+    src="https://i.ibb.co/zhJsQns/html.jpg"
     alt="html5"
     width="40"
     height="40"
