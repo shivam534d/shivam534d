@@ -83,8 +83,8 @@ I will execute an Idea from the **Initial Design Phase** to **User Testing** and
     <img
     src="https://i.ibb.co/zhJsQns/html.jpg"
     alt="html5"
-    width="40"
-    height="40"
+    width="auto"
+    height="19"
     />
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank">
