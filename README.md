@@ -89,7 +89,7 @@ I will execute an Idea from the **Initial Design Phase** to **User Testing** and
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img
-    src="https://i.ibb.co/j43D5dc/css.png"
+    src="https://i.ibb.co/tQPVWCr/css.png"
     alt="css3"
     width="auto"
     height="19"
@@ -97,7 +97,7 @@ I will execute an Idea from the **Initial Design Phase** to **User Testing** and
   </a>
   <a href="https://sass-lang.com" target="_blank">
     <img
-      src="https://i.ibb.co/FWvxnX5/sass.png"
+      src="https://i.ibb.co/b2jQ5fy/sass.png"
       alt="sass"
       width="auto"
       height="19"
@@ -105,15 +105,15 @@ I will execute an Idea from the **Initial Design Phase** to **User Testing** and
   </a>
   <a href="https://getbootstrap.com" target="_blank">
     <img
-      src="https://i.ibb.co/BTzvZkT/bootstrap.png"
+      src="https://i.ibb.co/tBtH8Sw/bootstrap.png"
       alt="bootstrap"
       width="auto"
       height="19"
     />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img
-      src="https://i.ibb.co/99BZh9X/javascript.png"
+      src="https://i.ibb.co/Lh4mTDH/javascript.png"
       alt="javascript"
       width="auto"
       height="19"
@@ -121,15 +121,15 @@ I will execute an Idea from the **Initial Design Phase** to **User Testing** and
   </a>
   <a href="https://nodejs.org" target="_blank">
     <img
-      src="https://i.ibb.co/F4mWT2T/nodejs.png"
+      src="https://i.ibb.co/xHv2nKL/nodejs.png"
       alt="nodejs"
       width="auto"
       height="19"
     />
   </a>
-  <a href="https://expressjs.com" target="_blank">
+  <!-- <a href="https://expressjs.com" target="_blank">
     <img
-      src="https://i.ibb.co/Dz2Kjz6/expressjs.png"
+      src="https://i.ibb.co/f0D3J65/expressjs.png"
       alt="express"
       width="auto"
       height="19"
@@ -137,7 +137,7 @@ I will execute an Idea from the **Initial Design Phase** to **User Testing** and
   </a>
   <a href="https://reactjs.org/" target="_blank">
     <img
-      src="https://i.ibb.co/j8q1sKZ/reactjs.png"
+      src="https://i.ibb.co/WgpGKvn/reactjs.png"
       alt="react"
       width="auto"
       height="19"
@@ -145,7 +145,7 @@ I will execute an Idea from the **Initial Design Phase** to **User Testing** and
   </a>
   <a href="https://redux.js.org" target="_blank">
     <img
-      src="https://i.ibb.co/W6DtnPY/redux.png"
+      src="https://i.ibb.co/Yct1khH/redux.png"
       alt="redux"
       width="auto"
       height="19"
@@ -153,7 +153,7 @@ I will execute an Idea from the **Initial Design Phase** to **User Testing** and
   </a>
   <a href="https://www.mongodb.com/" target="_blank">
     <img
-      src="https://i.ibb.co/k8nJq1z/mongoDB.png"
+      src="https://i.ibb.co/wRCXByq/mongoDB.png"
       alt="mongodb"
       width="auto"
       height="19"
@@ -161,7 +161,7 @@ I will execute an Idea from the **Initial Design Phase** to **User Testing** and
   </a>
   <a href="https://nextjs.org/" target="_blank">
     <img
-      src="https://i.ibb.co/VtyygjL/nextjs.png"
+      src="https://i.ibb.co/ky4Qt51/nextjs.png"
       alt="nextjs"
       width="auto"
       height="19"
@@ -169,7 +169,7 @@ I will execute an Idea from the **Initial Design Phase** to **User Testing** and
   </a>
   <a href="https://www.postgresql.org" target="_blank">
     <img
-      src="https://i.ibb.co/dLYKsSx/Postgre-SQL.png"
+      src="https://i.ibb.co/Xy6cgVL/Postgre-SQL.png"
       alt="postgresql"
       width="auto"
       height="19"
@@ -177,7 +177,7 @@ I will execute an Idea from the **Initial Design Phase** to **User Testing** and
   </a>
   <a href="https://postman.com" target="_blank">
     <img
-      src="https://i.ibb.co/W3TyzpV/postman.png"
+      src="https://i.ibb.co/sVvd0x6/postman.png"
       alt="postman"
       width="auto"
       height="19"
@@ -185,23 +185,23 @@ I will execute an Idea from the **Initial Design Phase** to **User Testing** and
   </a>
   <a href="https://www.python.org" target="_blank">
     <img
-      src="https://i.ibb.co/p0gxNDv/python-1.png"
+      src="https://i.ibb.co/0ZwFY3C/python.png"
       alt="python"
       width="auto"
       height="19"
     />
-  </a>
+  </a> -->
   <a href="https://git-scm.com/" target="_blank">
     <img
-      src="https://i.ibb.co/vXpmcCY/git.png"
+      src="https://i.ibb.co/TWLqFCq/git.png"
       alt="git"
       width="auto"
       height="19"
     />
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
+  </a> 
+  <!-- <a href="https://www.linux.org/" target="_blank">
     <img
-      src=""
+      src="https://i.ibb.co/JRkrjWR/linux.png"
       alt="linux"
       width="auto"
       height="19"
@@ -209,15 +209,15 @@ I will execute an Idea from the **Initial Design Phase** to **User Testing** and
   </a>
   <a href="https://angular.io" target="_blank">
     <img
-      src=""
-      alt="angularjs"
+      src="https://i.ibb.co/w4nrvjK/angular.png"
+      alt="angular"
       width="auto"
       height="19"
     />
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img
-      src=""
+      src="https://i.ibb.co/XC82TFr/typescript.png"
       alt="typescript"
       width="auto"
       height="19"
@@ -225,7 +225,7 @@ I will execute an Idea from the **Initial Design Phase** to **User Testing** and
   </a>
   <a href="https://aws.amazon.com" target="_blank">
     <img
-      src=""
+      src="https://i.ibb.co/VBsbyVV/aws.png"
       alt="aws"
       width="auto"
       height="19"
@@ -233,7 +233,7 @@ I will execute an Idea from the **Initial Design Phase** to **User Testing** and
   </a>
   <a href="https://firebase.google.com/" target="_blank">
     <img
-      src=""
+      src="https://i.ibb.co/bPHNtJY/firebase.png"
       alt="firebase"
       width="auto"
       height="19"
@@ -241,7 +241,7 @@ I will execute an Idea from the **Initial Design Phase** to **User Testing** and
   </a>
   <a href="https://heroku.com" target="_blank">
     <img
-      src=""
+      src="https://i.ibb.co/n3Yx2K5/heroku.png"
       alt="heroku"
       width="auto"
       height="19"
@@ -249,15 +249,15 @@ I will execute an Idea from the **Initial Design Phase** to **User Testing** and
   </a>
   <a href="https://www.mysql.com/" target="_blank">
     <img
-      src=""
+      src="https://i.ibb.co/jwvPwbV/mySQL.png"
       alt="mysql"
       width="auto"
       height="19"
     />
-  </a>
+  </a> -->
   <a href="https://www.java.com" target="_blank">
     <img
-      src=""
+      src="https://i.ibb.co/xFQ5JJz/java.png"
       alt="java"
       width="auto"
       height="19"
