@@ -18,7 +18,7 @@ I will execute an Idea from the **Initial Design Phase** to **User Testing** and
 <p>
   <!-- Twitter -->
   <a href="http://twitter.com/shivam534d" target="_blank">
-    <img align="center" src="https://i.ibb.co/9YmZFVr/twitter.jpg" alt="shivam534d" height="40" width="auto"/>
+    <img align="center" src="https://shivammishra.in/assets/images/hero-pic.jpg" alt="shivam534d" height="40" width="auto"/>
   </a>
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/shivam534d/" target="_blank">
