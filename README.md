@@ -84,7 +84,7 @@ I will execute an Idea from the **Initial Design Phase** to **User Testing** and
     src="https://shivammishra.in/cdn/github/assets/png/html.png"
     alt="html5"
     width="auto"
-    height="22"
+    height="20"
     />
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank">
@@ -92,7 +92,7 @@ I will execute an Idea from the **Initial Design Phase** to **User Testing** and
     src="https://shivammishra.in/cdn/github/assets/png/css.png"
     alt="css3"
     width="auto"
-    height="21"
+    height="20"
     />
   </a>
   <a href="https://sass-lang.com" target="_blank">
@@ -108,7 +108,7 @@ I will execute an Idea from the **Initial Design Phase** to **User Testing** and
       src="https://shivammishra.in/cdn/github/assets/png/bootstrap.png"
       alt="bootstrap"
       width="auto"
-      height="19"
+      height="20"
     />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
@@ -116,7 +116,7 @@ I will execute an Idea from the **Initial Design Phase** to **User Testing** and
       src="https://shivammishra.in/cdn/github/assets/png/javascript.png"
       alt="javascript"
       width="auto"
-      height="19"
+      height="20"
     />
   </a>
   <a href="https://nodejs.org" target="_blank">
@@ -124,7 +124,7 @@ I will execute an Idea from the **Initial Design Phase** to **User Testing** and
       src="https://shivammishra.in/cdn/github/assets/png/nodejs.png"
       alt="nodejs"
       width="auto"
-      height="19"
+      height="20"
     />
   </a>
   <!-- <a href="https://expressjs.com" target="_blank">
