@@ -81,50 +81,50 @@ I will execute an Idea from the **Initial Design Phase** to **User Testing** and
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank">
     <img
-    src="https://shivammishra.in/cdn/github/assets/png/html.png"
+    src="https://shivammishra.in/cdn/github/assets/html.png"
     alt="html5"
     width="auto"
-    height="20"
+    height="22"
     />
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img
-    src="https://shivammishra.in/cdn/github/assets/png/css.png"
+    src="https://shivammishra.in/cdn/github/assets/css.png"
     alt="css3"
     width="auto"
-    height="20"
+    height="22"
     />
   </a>
   <a href="https://sass-lang.com" target="_blank">
     <img
-      src="https://shivammishra.in/cdn/github/assets/png/sass.png"
+      src="https://shivammishra.in/cdn/github/assets/sass.png"
       alt="sass"
       width="auto"
-      height="20"
+      height="22"
     />
   </a>
   <a href="https://getbootstrap.com" target="_blank">
     <img
-      src="https://shivammishra.in/cdn/github/assets/png/bootstrap.png"
+      src="https://shivammishra.in/cdn/github/assets/bootstrap.png"
       alt="bootstrap"
       width="auto"
-      height="20"
+      height="22"
     />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img
-      src="https://shivammishra.in/cdn/github/assets/png/javascript.png"
+      src="https://shivammishra.in/cdn/github/assets/javascript.png"
       alt="javascript"
       width="auto"
-      height="20"
+      height="22"
     />
   </a>
   <a href="https://nodejs.org" target="_blank">
     <img
-      src="https://shivammishra.in/cdn/github/assets/png/nodejs.png"
+      src="https://shivammishra.in/cdn/github/assets/nodejs.png"
       alt="nodejs"
       width="auto"
-      height="20"
+      height="22"
     />
   </a>
   <!-- <a href="https://expressjs.com" target="_blank">
