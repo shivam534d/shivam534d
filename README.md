@@ -84,7 +84,7 @@ I will execute an Idea from the **Initial Design Phase** to **User Testing** and
     src="https://shivammishra.in/cdn/github/assets/png/html.png"
     alt="html5"
     width="auto"
-    height="19"
+    height="22"
     />
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank">
@@ -92,7 +92,7 @@ I will execute an Idea from the **Initial Design Phase** to **User Testing** and
     src="https://shivammishra.in/cdn/github/assets/png/css.png"
     alt="css3"
     width="auto"
-    height="19"
+    height="21"
     />
   </a>
   <a href="https://sass-lang.com" target="_blank">
@@ -100,7 +100,7 @@ I will execute an Idea from the **Initial Design Phase** to **User Testing** and
       src="https://shivammishra.in/cdn/github/assets/png/sass.png"
       alt="sass"
       width="auto"
-      height="19"
+      height="20"
     />
   </a>
   <a href="https://getbootstrap.com" target="_blank">
