@@ -18,19 +18,19 @@ I will execute an Idea from the **Initial Design Phase** to **User Testing** and
 <p>
   <!-- Twitter -->
   <a href="http://twitter.com/shivam534d" target="_blank">
-    <img align="center" src="https://i.ibb.co/9YmZFVr/twitter.jpg" alt="shivam534d" height="40" width="auto"/>
+    <img align="center" src="https://shivammishra.in/cdn/github/assets/jpg/twitter.jpg" alt="shivam534d" height="40" width="auto"/>
   </a>
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/shivam534d/" target="_blank">
-    <img align="center" src="https://i.ibb.co/DggC9q6/linkedin.jpg" alt="shivam534d" height="40" width="auto"/>
+    <img align="center" src="https://shivammishra.in/cdn/github/assets/jpg/linkedin.jpg" alt="shivam534d" height="40" width="auto"/>
   </a>
   <!-- Instagram -->
   <a href="https://www.instagram.com/shivam534d/" target="_blank">
-    <img align="center" src="https://i.ibb.co/b7yBJtq/insta-shivam534d.jpg" alt="shivam534d" height="40" width="auto"/>
+    <img align="center" src="https://shivammishra.in/cdn/github/assets/jpg/insta-shivam534d.jpg" alt="shivam534d" height="40" width="auto"/>
   </a>
   <!-- Email -->
   <a href="mailto:shivam534d@gmail" target="_blank">
-    <img align="center" src="https://i.ibb.co/LnCJ65k/gmail.jpg" alt="shivam534d" height="40" width="auto"/>
+    <img align="center" src="https://shivammishra.in/cdn/github/assets/jpg/gmail.jpg" alt="shivam534d" height="40" width="auto"/>
   </a>
 </p>
 
@@ -39,19 +39,19 @@ I will execute an Idea from the **Initial Design Phase** to **User Testing** and
 <p>
   <!-- Behance -->
   <a href="https://www.behance.net/designsbymishra" target="_blank">
-    <img align="center" src="https://i.ibb.co/fMrXJ3n/behance.jpg" alt="designsbymishra" height="40" width="auto"/>
+    <img align="center" src="https://shivammishra.in/cdn/github/assets/jpg/behance.jpg" alt="designsbymishra" height="40" width="auto"/>
   </a>
   <!-- Dribbble -->
   <a href="https://dribbble.com/designsbymishra" target="_blank">
-    <img align="center" src="https://i.ibb.co/cLMwjJq/dribbble.jpg" alt="designsbymishra" height="40" width="auto"/>
+    <img align="center" src="https://shivammishra.in/cdn/github/assets/jpg/dribbble.jpg" alt="designsbymishra" height="40" width="auto"/>
   </a>
   <!-- Design Instagram -->
   <a href="https://www.instagram.com/designsbymishra/" target="_blank">
-    <img align="center" src="https://i.ibb.co/GCxyPKP/instgram-Designs-By-Mishra.jpg" alt="designsbymishra" height="40" width="auto"/>             
+    <img align="center" src="https://shivammishra.in/cdn/github/assets/jpg/instgram-Designs-By-Mishra.jpg" alt="designsbymishra" height="40" width="auto"/>             
   </a>
   <!-- CodePen -->
   <a href="https://codepen.io/designsbymishra" target="_blank">
-    <img align="center" src="https://i.ibb.co/JjrPZNx/codePen.jpg" alt="designsbymishra" height="40" width="auto"/>
+    <img align="center" src="https://shivammishra.in/cdn/github/assets/jpg/codePen.jpg" alt="designsbymishra" height="40" width="auto"/>
   </a>
 </p>
 
@@ -60,19 +60,19 @@ I will execute an Idea from the **Initial Design Phase** to **User Testing** and
 <p>
   <!-- Leetcode -->
   <a href="https://leetcode.com/shivam534d" target="_blank">
-    <img align="center" src="https://i.ibb.co/1rkqDXD/leetcode.jpg" alt="shivam534d" height="40" width="auto"/>
+    <img align="center" src="https://shivammishra.in/cdn/github/assets/jpg/leetcode.jpg" alt="shivam534d" height="40" width="auto"/>
   </a>
   <!-- HackerRank -->
   <a href="https://www.hackerrank.com/shivam534d" target="_blank">
-    <img align="center" src="https://i.ibb.co/rmLXFSH/hackerrank.jpg" alt="shivam534d" height="40" width="auto"/>
+    <img align="center" src="https://shivammishra.in/cdn/github/assets/jpg/hackerrank.jpg" alt="shivam534d" height="40" width="auto"/>
   </a>
   <!-- HackerEarth -->
   <a href="https://www.hackerearth.com/@shivam534d" target="_blank">
-    <img align="center" src="https://i.ibb.co/kQwdTDs/hacker-Earth.jpg" alt="shivam534d" height="40" width="auto"/>
+    <img align="center" src="https://shivammishra.in/cdn/github/assets/jpg/hacker-Earth.jpg" alt="shivam534d" height="40" width="auto"/>
   </a>
   <!-- CodeChef -->
   <a href="https://www.codechef.com/users/shivam534d" target="_blank">
-    <img align="center" src="https://i.ibb.co/WnVjRXL/codeChef.jpg" alt="shivam534d" height="40" width="auto"/>
+    <img align="center" src="https://shivammishra.in/cdn/github/assets/jpg/codeChef.jpg" alt="shivam534d" height="40" width="auto"/>
   </a>
 </p>
 
@@ -81,7 +81,7 @@ I will execute an Idea from the **Initial Design Phase** to **User Testing** and
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank">
     <img
-    src="https://i.ibb.co/tm9v8sn/html.png"
+    src="https://shivammishra.in/cdn/github/assets/png/html.png"
     alt="html5"
     width="auto"
     height="19"
@@ -89,7 +89,7 @@ I will execute an Idea from the **Initial Design Phase** to **User Testing** and
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img
-    src="https://i.ibb.co/tQPVWCr/css.png"
+    src="https://shivammishra.in/cdn/github/assets/png/css.png"
     alt="css3"
     width="auto"
     height="19"
@@ -97,7 +97,7 @@ I will execute an Idea from the **Initial Design Phase** to **User Testing** and
   </a>
   <a href="https://sass-lang.com" target="_blank">
     <img
-      src="https://i.ibb.co/b2jQ5fy/sass.png"
+      src="https://shivammishra.in/cdn/github/assets/png/sass.png"
       alt="sass"
       width="auto"
       height="19"
@@ -105,7 +105,7 @@ I will execute an Idea from the **Initial Design Phase** to **User Testing** and
   </a>
   <a href="https://getbootstrap.com" target="_blank">
     <img
-      src="https://i.ibb.co/tBtH8Sw/bootstrap.png"
+      src="https://shivammishra.in/cdn/github/assets/png/bootstrap.png"
       alt="bootstrap"
       width="auto"
       height="19"
@@ -113,7 +113,7 @@ I will execute an Idea from the **Initial Design Phase** to **User Testing** and
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img
-      src="https://i.ibb.co/Lh4mTDH/javascript.png"
+      src="https://shivammishra.in/cdn/github/assets/png/javascript.png"
       alt="javascript"
       width="auto"
       height="19"
@@ -121,7 +121,7 @@ I will execute an Idea from the **Initial Design Phase** to **User Testing** and
   </a>
   <a href="https://nodejs.org" target="_blank">
     <img
-      src="https://i.ibb.co/xHv2nKL/nodejs.png"
+      src="https://shivammishra.in/cdn/github/assets/png/nodejs.png"
       alt="nodejs"
       width="auto"
       height="19"
@@ -129,7 +129,7 @@ I will execute an Idea from the **Initial Design Phase** to **User Testing** and
   </a>
   <!-- <a href="https://expressjs.com" target="_blank">
     <img
-      src="https://i.ibb.co/f0D3J65/expressjs.png"
+      src="https://shivammishra.in/cdn/github/assets/png/expressjs.png"
       alt="express"
       width="auto"
       height="19"
@@ -137,7 +137,7 @@ I will execute an Idea from the **Initial Design Phase** to **User Testing** and
   </a>
   <a href="https://reactjs.org/" target="_blank">
     <img
-      src="https://i.ibb.co/WgpGKvn/reactjs.png"
+      src="https://shivammishra.in/cdn/github/assets/png/reactjs.png"
       alt="react"
       width="auto"
       height="19"
@@ -145,7 +145,7 @@ I will execute an Idea from the **Initial Design Phase** to **User Testing** and
   </a>
   <a href="https://redux.js.org" target="_blank">
     <img
-      src="https://i.ibb.co/Yct1khH/redux.png"
+      src="https://shivammishra.in/cdn/github/assets/png/redux.png"
       alt="redux"
       width="auto"
       height="19"
@@ -153,7 +153,7 @@ I will execute an Idea from the **Initial Design Phase** to **User Testing** and
   </a>
   <a href="https://www.mongodb.com/" target="_blank">
     <img
-      src="https://i.ibb.co/wRCXByq/mongoDB.png"
+      src="https://shivammishra.in/cdn/github/assets/png/mongoDB.png"
       alt="mongodb"
       width="auto"
       height="19"
@@ -161,7 +161,7 @@ I will execute an Idea from the **Initial Design Phase** to **User Testing** and
   </a>
   <a href="https://nextjs.org/" target="_blank">
     <img
-      src="https://i.ibb.co/ky4Qt51/nextjs.png"
+      src="https://shivammishra.in/cdn/github/assets/png/nextjs.png"
       alt="nextjs"
       width="auto"
       height="19"
@@ -169,7 +169,7 @@ I will execute an Idea from the **Initial Design Phase** to **User Testing** and
   </a>
   <a href="https://www.postgresql.org" target="_blank">
     <img
-      src="https://i.ibb.co/Xy6cgVL/Postgre-SQL.png"
+      src="https://shivammishra.in/cdn/github/assets/png/Postgre-SQL.png"
       alt="postgresql"
       width="auto"
       height="19"
@@ -177,7 +177,7 @@ I will execute an Idea from the **Initial Design Phase** to **User Testing** and
   </a>
   <a href="https://postman.com" target="_blank">
     <img
-      src="https://i.ibb.co/sVvd0x6/postman.png"
+      src="https://shivammishra.in/cdn/github/assets/png/postman.png"
       alt="postman"
       width="auto"
       height="19"
@@ -185,7 +185,7 @@ I will execute an Idea from the **Initial Design Phase** to **User Testing** and
   </a>
   <a href="https://www.python.org" target="_blank">
     <img
-      src="https://i.ibb.co/0ZwFY3C/python.png"
+      src="https://shivammishra.in/cdn/github/assets/png/python.png"
       alt="python"
       width="auto"
       height="19"
@@ -193,7 +193,7 @@ I will execute an Idea from the **Initial Design Phase** to **User Testing** and
   </a> -->
   <a href="https://git-scm.com/" target="_blank">
     <img
-      src="https://i.ibb.co/TWLqFCq/git.png"
+      src="https://shivammishra.in/cdn/github/assets/png/git.png"
       alt="git"
       width="auto"
       height="19"
@@ -201,7 +201,7 @@ I will execute an Idea from the **Initial Design Phase** to **User Testing** and
   </a> 
   <!-- <a href="https://www.linux.org/" target="_blank">
     <img
-      src="https://i.ibb.co/JRkrjWR/linux.png"
+      src="https://shivammishra.in/cdn/github/assets/png/linux.png"
       alt="linux"
       width="auto"
       height="19"
@@ -209,7 +209,7 @@ I will execute an Idea from the **Initial Design Phase** to **User Testing** and
   </a>
   <a href="https://angular.io" target="_blank">
     <img
-      src="https://i.ibb.co/w4nrvjK/angular.png"
+      src="https://shivammishra.in/cdn/github/assets/png/angular.png"
       alt="angular"
       width="auto"
       height="19"
@@ -217,7 +217,7 @@ I will execute an Idea from the **Initial Design Phase** to **User Testing** and
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img
-      src="https://i.ibb.co/XC82TFr/typescript.png"
+      src="https://shivammishra.in/cdn/github/assets/png/typescript.png"
       alt="typescript"
       width="auto"
       height="19"
@@ -225,7 +225,7 @@ I will execute an Idea from the **Initial Design Phase** to **User Testing** and
   </a>
   <a href="https://aws.amazon.com" target="_blank">
     <img
-      src="https://i.ibb.co/VBsbyVV/aws.png"
+      src="https://shivammishra.in/cdn/github/assets/png/aws.png"
       alt="aws"
       width="auto"
       height="19"
@@ -233,7 +233,7 @@ I will execute an Idea from the **Initial Design Phase** to **User Testing** and
   </a>
   <a href="https://firebase.google.com/" target="_blank">
     <img
-      src="https://i.ibb.co/bPHNtJY/firebase.png"
+      src="https://shivammishra.in/cdn/github/assets/png/firebase.png"
       alt="firebase"
       width="auto"
       height="19"
@@ -241,7 +241,7 @@ I will execute an Idea from the **Initial Design Phase** to **User Testing** and
   </a>
   <a href="https://heroku.com" target="_blank">
     <img
-      src="https://i.ibb.co/n3Yx2K5/heroku.png"
+      src="https://shivammishra.in/cdn/github/assets/png/heroku.png"
       alt="heroku"
       width="auto"
       height="19"
@@ -249,7 +249,7 @@ I will execute an Idea from the **Initial Design Phase** to **User Testing** and
   </a>
   <a href="https://www.mysql.com/" target="_blank">
     <img
-      src="https://i.ibb.co/jwvPwbV/mySQL.png"
+      src="https://shivammishra.in/cdn/github/assets/png/mySQL.png"
       alt="mysql"
       width="auto"
       height="19"
@@ -257,7 +257,7 @@ I will execute an Idea from the **Initial Design Phase** to **User Testing** and
   </a> -->
   <a href="https://www.java.com" target="_blank">
     <img
-      src="https://i.ibb.co/xFQ5JJz/java.png"
+      src="https://shivammishra.in/cdn/github/assets/png/java.png"
       alt="java"
       width="auto"
       height="19"
