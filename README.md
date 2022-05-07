@@ -70,6 +70,10 @@ I will execute an Idea from the **Initial Design Phase** to **User Testing** and
   <a href="https://www.codechef.com/users/shivam534d" target="_blank">
     <img align="center" src="https://shivammishra.in/cdn/github/assets/social/png/codeChef.png" alt="shivam534d" height="34" width="auto"/>
   </a>
+  <!-- FreeCodeCamp -->
+  <a href="https://www.freecodecamp.org/shivam534d" target="_blank">
+    <img align="center" src="https://shivammishra.in/cdn/github/assets/social/png/freeCodeCamp.png" alt="shivam534d" height="34" width="auto"/>
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
