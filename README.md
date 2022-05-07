@@ -12,22 +12,22 @@ I will execute an Idea from the **Initial Design Phase** to **User Testing** and
 ### :mailbox: Reach Me:
 
 <p>
-  <!-- Twitter -->
-  <a href="http://twitter.com/shivam534d" target="_blank">
-    <img align="center" src="https://shivammishra.in/cdn/github/assets/social/png/twitter.png" alt="shivam534d" height="34" width="auto"/>
+  <!-- Email -->
+  <a href="mailto:hi@shivammishra.in" target="_blank">
+    <img align="center" src="https://shivammishra.in/cdn/github/assets/social/png/mail.png" alt="hi@shivammishra.in" height="34" width="auto"/>
   </a>
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/shivam534d/" target="_blank">
     <img align="center" src="https://shivammishra.in/cdn/github/assets/social/png/linkedin.png" alt="shivam534d" height="34" width="auto"/>
   </a>
+  <!-- Twitter -->
+  <a href="http://twitter.com/shivam534d" target="_blank">
+    <img align="center" src="https://shivammishra.in/cdn/github/assets/social/png/twitter.png" alt="shivam534d" height="34" width="auto"/>
+  </a>
   <!-- Instagram -->
-  <a href="https://www.instagram.com/shivam534d/" target="_blank">
+<!--   <a href="https://www.instagram.com/shivam534d/" target="_blank">
     <img align="center" src="https://shivammishra.in/cdn/github/assets/social/png/insta-shivam534d.png" alt="shivam534d" height="34" width="auto"/>
-  </a>
-  <!-- Email -->
-  <a href="mailto:shivam534d@gmail" target="_blank">
-    <img align="center" src="https://shivammishra.in/cdn/github/assets/social/png/gmail.png" alt="shivam534d" height="34" width="auto"/>
-  </a>
+  </a> -->
 </p>
 
 ### :pencil2: My Design Portfolio:
@@ -43,7 +43,7 @@ I will execute an Idea from the **Initial Design Phase** to **User Testing** and
   </a>
   <!-- Design Instagram -->
   <a href="https://www.instagram.com/designsbymishra/" target="_blank">
-    <img align="center" src="https://shivammishra.in/cdn/github/assets/social/png/insta-Designs-By-Mishra.png" alt="designsbymishra" height="34" width="auto"/>             
+    <img align="center" src="https://shivammishra.in/cdn/github/assets/social/png/insta-Designs-By-Mishra.png" alt="designsbymishra" height="34" width="auto"/>
   </a>
   <!-- CodePen -->
   <a href="https://codepen.io/designsbymishra" target="_blank">
