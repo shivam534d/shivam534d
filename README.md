@@ -1,17 +1,13 @@
-<h1>Hi 👋, I'm Shivam Mishra</h1>
-<h3 underline="none">:house:  <a href="http://shivammishra.in/" style="color:#FFAE1A">www.shivammishra.in</a></h3>
+<h1>Hi 👋 I'm Shivam Mishra</h1>
+<h3>:house:  <a href="http://shivammishra.in/" style="text-decoration: none; color:##fbc92c !important">www.shivammishra.in</a></h3>
 <h3>A Creative Designer & Developer from India</h3>
 
 I will execute an Idea from the **Initial Design Phase** to **User Testing** and **UX Audit**, And then Proceed with the **Development**, **Testing** and **Deployment** until your idea is shipped.
 
-- I have worked on various **UX/UI Design Projects** as a Freelance Designer, for many clients.
-- I have also Developed various Web Projects with good User Experience as a base.
+- I have worked on various **UX/UI Design Projects,**  as a Freelance Designer, for many clients.
+- I have also Developed various **Web Projects** with good **User Experience** as a base.
 
 ### Have an Idea? Let's Build it Together.
-
-<!-- - All of my projects are available at [https://github.com/battleplayer02/](https://github.com/battleplayer02/) -->
-
-<!-- - How to reach me, drop an email at **hshekhar499@gmail.com** -->
 
 ### :mailbox: Reach Me:
 
@@ -47,7 +43,7 @@ I will execute an Idea from the **Initial Design Phase** to **User Testing** and
   </a>
   <!-- Design Instagram -->
   <a href="https://www.instagram.com/designsbymishra/" target="_blank">
-    <img align="center" src="https://shivammishra.in/cdn/github/assets/social/jpg/instgram-Designs-By-Mishra.jpg" alt="designsbymishra" height="34" width="auto"/>             
+    <img align="center" src="https://shivammishra.in/cdn/github/assets/social/jpg/insta-Designs-By-Mishra.jpg" alt="designsbymishra" height="34" width="auto"/>             
   </a>
   <!-- CodePen -->
   <a href="https://codepen.io/designsbymishra" target="_blank">
@@ -60,15 +56,15 @@ I will execute an Idea from the **Initial Design Phase** to **User Testing** and
 <p>
   <!-- Leetcode -->
   <a href="https://leetcode.com/shivam534d" target="_blank">
-    <img align="center" src="https://shivammishra.in/cdn/github/assets/social/jpg/leetcode.jpg" alt="shivam534d" height="34" width="auto"/>
+    <img align="center" src="https://shivammishra.in/cdn/github/assets/social/jpg/leetCode.jpg" alt="shivam534d" height="34" width="auto"/>
   </a>
   <!-- HackerRank -->
   <a href="https://www.hackerrank.com/shivam534d" target="_blank">
-    <img align="center" src="https://shivammishra.in/cdn/github/assets/social/jpg/hackerrank.jpg" alt="shivam534d" height="34" width="auto"/>
+    <img align="center" src="https://shivammishra.in/cdn/github/assets/social/jpg/hackerRank.jpg" alt="shivam534d" height="34" width="auto"/>
   </a>
   <!-- HackerEarth -->
   <a href="https://www.hackerearth.com/@shivam534d" target="_blank">
-    <img align="center" src="https://shivammishra.in/cdn/github/assets/social/jpg/hacker-Earth.jpg" alt="shivam534d" height="34" width="auto"/>
+    <img align="center" src="https://shivammishra.in/cdn/github/assets/social/jpg/hackerEarth.jpg" alt="shivam534d" height="34" width="auto"/>
   </a>
   <!-- CodeChef -->
   <a href="https://www.codechef.com/users/shivam534d" target="_blank">
@@ -169,7 +165,7 @@ I will execute an Idea from the **Initial Design Phase** to **User Testing** and
   </a>
   <a href="https://www.postgresql.org" target="_blank">
     <img
-      src="https://shivammishra.in/cdn/github/assets/tech-stack-badges/png/Postgre-SQL.png"
+      src="https://shivammishra.in/cdn/github/assets/tech-stack-badges/png/postgreSQL.png"
       alt="postgresql"
       width="auto"
       height="23"
