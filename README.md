@@ -14,19 +14,19 @@ I will execute an Idea from the **Initial Design Phase** to **User Testing** and
 <p>
   <!-- Twitter -->
   <a href="http://twitter.com/shivam534d" target="_blank">
-    <img align="center" src="https://shivammishra.in/cdn/github/assets/social/jpg/twitter.jpg" alt="shivam534d" height="34" width="auto"/>
+    <img align="center" src="https://shivammishra.in/cdn/github/assets/social/png/twitter.png" alt="shivam534d" height="34" width="auto"/>
   </a>
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/shivam534d/" target="_blank">
-    <img align="center" src="https://shivammishra.in/cdn/github/assets/social/jpg/linkedin.jpg" alt="shivam534d" height="34" width="auto"/>
+    <img align="center" src="https://shivammishra.in/cdn/github/assets/social/png/linkedin.png" alt="shivam534d" height="34" width="auto"/>
   </a>
   <!-- Instagram -->
   <a href="https://www.instagram.com/shivam534d/" target="_blank">
-    <img align="center" src="https://shivammishra.in/cdn/github/assets/social/jpg/insta-shivam534d.jpg" alt="shivam534d" height="34" width="auto"/>
+    <img align="center" src="https://shivammishra.in/cdn/github/assets/social/png/insta-shivam534d.png" alt="shivam534d" height="34" width="auto"/>
   </a>
   <!-- Email -->
   <a href="mailto:shivam534d@gmail" target="_blank">
-    <img align="center" src="https://shivammishra.in/cdn/github/assets/social/jpg/gmail.jpg" alt="shivam534d" height="34" width="auto"/>
+    <img align="center" src="https://shivammishra.in/cdn/github/assets/social/png/gmail.png" alt="shivam534d" height="34" width="auto"/>
   </a>
 </p>
 
@@ -35,19 +35,19 @@ I will execute an Idea from the **Initial Design Phase** to **User Testing** and
 <p>
   <!-- Behance -->
   <a href="https://www.behance.net/designsbymishra" target="_blank">
-    <img align="center" src="https://shivammishra.in/cdn/github/assets/social/jpg/behance.jpg" alt="designsbymishra" height="34" width="auto"/>
+    <img align="center" src="https://shivammishra.in/cdn/github/assets/social/png/behance.png" alt="designsbymishra" height="34" width="auto"/>
   </a>
   <!-- Dribbble -->
   <a href="https://dribbble.com/designsbymishra" target="_blank">
-    <img align="center" src="https://shivammishra.in/cdn/github/assets/social/jpg/dribbble.jpg" alt="designsbymishra" height="34" width="auto"/>
+    <img align="center" src="https://shivammishra.in/cdn/github/assets/social/png/dribbble.png" alt="designsbymishra" height="34" width="auto"/>
   </a>
   <!-- Design Instagram -->
   <a href="https://www.instagram.com/designsbymishra/" target="_blank">
-    <img align="center" src="https://shivammishra.in/cdn/github/assets/social/jpg/insta-Designs-By-Mishra.jpg" alt="designsbymishra" height="34" width="auto"/>             
+    <img align="center" src="https://shivammishra.in/cdn/github/assets/social/png/insta-Designs-By-Mishra.png" alt="designsbymishra" height="34" width="auto"/>             
   </a>
   <!-- CodePen -->
   <a href="https://codepen.io/designsbymishra" target="_blank">
-    <img align="center" src="https://shivammishra.in/cdn/github/assets/social/jpg/codePen.jpg" alt="designsbymishra" height="34" width="auto"/>
+    <img align="center" src="https://shivammishra.in/cdn/github/assets/social/png/codePen.png" alt="designsbymishra" height="34" width="auto"/>
   </a>
 </p>
 
@@ -56,19 +56,19 @@ I will execute an Idea from the **Initial Design Phase** to **User Testing** and
 <p>
   <!-- Leetcode -->
   <a href="https://leetcode.com/shivam534d" target="_blank">
-    <img align="center" src="https://shivammishra.in/cdn/github/assets/social/jpg/leetCode.jpg" alt="shivam534d" height="34" width="auto"/>
+    <img align="center" src="https://shivammishra.in/cdn/github/assets/social/png/leetCode.png" alt="shivam534d" height="34" width="auto"/>
   </a>
   <!-- HackerRank -->
   <a href="https://www.hackerrank.com/shivam534d" target="_blank">
-    <img align="center" src="https://shivammishra.in/cdn/github/assets/social/jpg/hackerRank.jpg" alt="shivam534d" height="34" width="auto"/>
+    <img align="center" src="https://shivammishra.in/cdn/github/assets/social/png/hackerRank.png" alt="shivam534d" height="34" width="auto"/>
   </a>
   <!-- HackerEarth -->
   <a href="https://www.hackerearth.com/@shivam534d" target="_blank">
-    <img align="center" src="https://shivammishra.in/cdn/github/assets/social/jpg/hackerEarth.jpg" alt="shivam534d" height="34" width="auto"/>
+    <img align="center" src="https://shivammishra.in/cdn/github/assets/social/png/hackerEarth.png" alt="shivam534d" height="34" width="auto"/>
   </a>
   <!-- CodeChef -->
   <a href="https://www.codechef.com/users/shivam534d" target="_blank">
-    <img align="center" src="https://shivammishra.in/cdn/github/assets/social/jpg/codeChef.jpg" alt="shivam534d" height="34" width="auto"/>
+    <img align="center" src="https://shivammishra.in/cdn/github/assets/social/png/codeChef.png" alt="shivam534d" height="34" width="auto"/>
   </a>
 </p>
 
