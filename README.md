@@ -63,13 +63,13 @@ I will execute an Idea from the **Initial Design Phase** to **User Testing** and
     <img align="center" src="https://shivammishra.in/cdn/github/assets/social/png/hackerRank.png" alt="shivam534d" height="34" width="auto"/>
   </a>
   <!-- HackerEarth -->
-  <a href="https://www.hackerearth.com/@shivam534d" target="_blank">
+<!--   <a href="https://www.hackerearth.com/@shivam534d" target="_blank">
     <img align="center" src="https://shivammishra.in/cdn/github/assets/social/png/hackerEarth.png" alt="shivam534d" height="34" width="auto"/>
-  </a>
+  </a> -->
   <!-- CodeChef -->
-  <a href="https://www.codechef.com/users/shivam534d" target="_blank">
+<!--   <a href="https://www.codechef.com/users/shivam534d" target="_blank">
     <img align="center" src="https://shivammishra.in/cdn/github/assets/social/png/codeChef.png" alt="shivam534d" height="34" width="auto"/>
-  </a>
+  </a> -->
   <!-- FreeCodeCamp -->
   <a href="https://www.freecodecamp.org/shivam534d" target="_blank">
     <img align="center" src="https://shivammishra.in/cdn/github/assets/social/png/freeCodeCamp.png" alt="shivam534d" height="34" width="auto"/>
