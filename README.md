@@ -14,7 +14,7 @@ I will execute an Idea from the **Initial Design Phase** to **User Testing** and
 <p>
   <!-- Email -->
   <a href="mailto:hi@shivammishra.com" target="_blank">
-    <img align="center" src="https://cdn.shivammishra.com/github/assets/social/png/maisl.png" alt="hi@shivammishra.com" height="34" width="auto"/>
+    <img align="center" src="https://cdn.shivammishra.com/github/assets/social/png/mail.png" alt="hi@shivammishra.com" height="34" width="auto"/>
   </a>
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/shivam534d/" target="_blank">
